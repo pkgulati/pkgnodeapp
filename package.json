@@ -1,0 +1,22 @@
+{
+  "name": "pkgnodeapp",
+  "version": "1.0.0",
+  "description": "test app nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkgulati/pkgnodeapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkgulati/pkgnodeapp/issues"
+  },
+  "homepage": "https://github.com/pkgulati/pkgnodeapp#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
